@@ -1,5 +1,6 @@
 # Global-Youtube-Statistics-Analysis
 This repository contains the code and analysis for the Global YouTube Statistic Analysis project. The project involves extracting and analyzing YouTube statistics across multiple regions, examining trends related to views, subscribers, uploads, etc. Through this analysis, actionable insights were derived to help content creators and businesses enhance their YouTube strategies.
+
 Full details can be found in Global Youtube Statistic Analysis-3.ipynb
 ** Key Features
 
@@ -28,11 +29,10 @@ Provided recommendations for content creators to improve their reach and engagem
 <img width="790" alt="Screenshot 2024-09-15 at 1 03 56 PM" src="https://github.com/user-attachments/assets/88cfd142-37d5-429a-a173-536c7044435a">
 5. What are some interesting user interaction and behaviors in those catgories. (measured by view counts per user)
 <img width="999" alt="Screenshot 2024-09-15 at 1 40 17 PM" src="https://github.com/user-attachments/assets/2c0ed164-5ebe-4281-b2a3-45cdb2e70057">
-6. What are the trending content creactivity of each chanel over the time?
+6. What are the trending content creativity of each channel over the time?
 <img width="1073" alt="Screenshot 2024-09-15 at 1 43 20 PM" src="https://github.com/user-attachments/assets/9211f33a-04ed-4e5f-823f-8db3f180f844">
-7. What is the posibility of generating average earnings per month in each category?
+7. What is the possibility of generating average earnings per month in each category?
 <img width="1033" alt="Screenshot 2024-09-15 at 1 44 06 PM" src="https://github.com/user-attachments/assets/c865ec99-bd79-4e1a-b123-fcd5d2d7726c">
-Here are the key points from the provided text:
 
 ---
 
