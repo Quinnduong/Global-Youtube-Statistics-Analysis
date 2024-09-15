@@ -2,15 +2,18 @@
 This repository contains the code and analysis for the Global YouTube Statistic Analysis project. The project involves extracting and analyzing YouTube statistics across multiple regions, examining trends related to views, subscribers, uploads, etc. Through this analysis, actionable insights were derived to help content creators and businesses enhance their YouTube strategies.
 Full details can be found in Global Youtube Statistic Analysis-3.ipynb
 ** Key Features
+
 Data Cleaning: Processed raw data to remove inconsistencies, null values, and duplicates.
+
 Exploratory Data Analysis (EDA): Conducted in-depth analysis to identify trends in the data such as popularity based on views, view/subscribe ratios, etc.
-Visualizations: Comprehensive visualizations were used to present data trends clearly. The following aspects are visualized:
-Top categories by views and likes.
-Global popularity trends based on different regions.
-Engagement metrics across various types of content.
+
+Visualizations: Comprehensive visualizations were used to present data trends clearly
+
 Insights:
 Identified the most engaging content types.
+
 Showed the regional differences in content preferences and how they influence global trends.
+
 Provided recommendations for content creators to improve their reach and engagement based on the analysis.
 
 1.	What are top 10 Youtubers who have the highest amount of views?
