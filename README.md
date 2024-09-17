@@ -76,7 +76,8 @@ Clone the repository:
 git clone https://github.com/quinnduong/Global-YouTube-Statistic-Analysis.git
 
 
-Install the required dependencies (e.g., Python libraries listed in requirements.txt).
+Install the required dependencies
+
 Run the analysis scripts locally to generate your own visualizations.
 
  
