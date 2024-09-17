@@ -30,6 +30,8 @@ Insights: Provided recommendations for content creators to improve their reach a
 7. What is the possibility of generating average earnings per month in each category?
 <img width="1033" alt="Screenshot 2024-09-15 at 1 44 06 PM" src="https://github.com/user-attachments/assets/c865ec99-bd79-4e1a-b123-fcd5d2d7726c">
 
+...
+More analyzed questions can be found in the project file
 ---
 
 ## Key Points
