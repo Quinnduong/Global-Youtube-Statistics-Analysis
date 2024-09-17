@@ -67,5 +67,16 @@ Here are the key points from the provided text:
 
 📝 **People & Blogs Category Growth**: The People & Blogs category gained popularity from 2016-2017, driven by the rise of vlogs and personal content, heavily influenced by social media integration.
 
+How to Run
+
+Clone the repository:
+
+<img width="682" alt="Screenshot 2024-09-17 at 2 57 42 PM" src="https://github.com/user-attachments/assets/7d3309dc-d79a-445d-91ba-cd2bf41808bb">
+
+git clone https://github.com/quinnduong/Global-YouTube-Statistic-Analysis.git
+
+
+Install the required dependencies (e.g., Python libraries listed in requirements.txt).
+Run the analysis scripts locally to generate your own visualizations.
 
  
